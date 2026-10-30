@@ -2,3 +2,4 @@
 2026-10-27 plumber (REAL) - late-paying customers, no cash for new equipment
 2026-10-28 dog groomer (EXAMPLE) - customer no-shows, deposits/reminders/waiting list
 2026-10-29 window cleaner (EXAMPLE) - not raising prices in 4 years, how to put prices up without losing the round
+2026-10-30 electrician (EXAMPLE) - turning jobs down to stay under the VAT threshold
