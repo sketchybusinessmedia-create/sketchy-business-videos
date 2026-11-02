@@ -4,3 +4,4 @@
 2026-10-29 window cleaner (EXAMPLE) - not raising prices in 4 years, how to put prices up without losing the round
 2026-10-30 electrician (EXAMPLE) - turning jobs down to stay under the VAT threshold
 2026-11-01 takeaway (EXAMPLE) - delivery apps taking up to 30% commission, busy but no profit left
+2026-11-02 roofer (EXAMPLE) - evenings lost to quotes, only 1 in 5 turn into work, customers ghosting
