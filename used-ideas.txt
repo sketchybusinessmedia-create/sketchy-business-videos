@@ -10,3 +10,4 @@
 2026-11-05 personal trainer (EXAMPLE) - fully booked 6am-9pm but stuck at ~40k, earn more without more hours
 2026-11-06 landscaper (EXAMPLE) - rammed in summer, dead Nov-Mar and living on the credit card, evening out feast and famine
 2026-11-07 mechanic (EXAMPLE) - booked solid at £45/hr since day one, no margin on parts, nothing left to pay himself
+2026-11-08 bakery (EXAMPLE) - sold out by noon but nothing left, flour/butter/energy up, scared to raise prices
