@@ -12,3 +12,4 @@
 2026-11-07 mechanic (EXAMPLE) - booked solid at £45/hr since day one, no margin on parts, nothing left to pay himself
 2026-11-08 bakery (EXAMPLE) - sold out by noon but nothing left, flour/butter/energy up, scared to raise prices
 2026-11-09 domestic cleaning (EXAMPLE) - grew from solo to 4 cleaners but taking home less, wages/fuel/supplies eating everything
+2026-11-10 pub (EXAMPLE) - £12 burger costing ~£13 to make, kitchen losing money despite busy weekends, thinking of shutting the kitchen
