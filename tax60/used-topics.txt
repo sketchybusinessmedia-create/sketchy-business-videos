@@ -7,3 +7,4 @@
 2026-11-07 | Simplified expenses: working from home flat rate for sole traders (£10/£18/£26 a month by hours; 2025/26 return, due 31 Jan 2027) | Run your business from home? HMRC lets you claim £312 a year. No receipts needed.
 2026-11-08 | High Income Child Benefit Charge (£60k-£80k adjusted net income, 1% per £200, higher earner pays; 2025/26 example) | Earn £70k? HMRC could take half your child benefit back.
 2026-11-09 | Selling online: platforms report sellers to HMRC (30+ sales or ~£1,700/€2,000 a calendar year), personal items vs trading, £1,000 trading allowance; 2025/26 example, return due 31 Jan 2027 | Made 30 sales online this year? The app sends HMRC your name and NI number.
+2026-11-10 | Careless mistakes on your tax return: inaccuracy penalties (careless up to 30%, prompted min 15%, unprompted can be 0%; amend within 12 months, 2024/25 return by 31 Jan 2027) | One careless mistake on your tax return... and HMRC can fine you 30%. On top of the tax.
