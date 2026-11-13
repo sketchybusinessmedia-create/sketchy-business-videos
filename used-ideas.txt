@@ -15,3 +15,4 @@
 2026-11-10 pub (EXAMPLE) - £12 burger costing ~£13 to make, kitchen losing money despite busy weekends, thinking of shutting the kitchen
 2026-11-11 online clothing shop (EXAMPLE) - £6k sold but £2k sent back as returns, paying postage both ways, cutting returns without losing customers
 2026-11-12 wedding photographer (EXAMPLE) - £1,200 a wedding but 40 hrs editing each, reckons he's on less than minimum wage, fixing pricing without losing bookings
+2026-11-13 builder (EXAMPLE) - £9k VAT bill with nothing in the bank, money goes straight out on materials and wages, stopping it every quarter
