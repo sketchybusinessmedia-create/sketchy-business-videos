@@ -21,5 +21,5 @@
 2026-11-16 joiner (EXAMPLE) - booked 6 weeks ahead but skint, buying ~£2k timber/fittings on the card before jobs and selling materials at cost, waiting weeks to be paid
 2026-11-17 plasterer (EXAMPLE) - went over VAT threshold and kept prices the same, £4k VAT bill paid out of his own pocket
 2026-11-18 heating engineer (EXAMPLE) - 6-7 boiler jobs a day at £60 but nothing left after fuel/parts/van, call-out fee, zoning by postcode, service plans, parts mark-up
-2026-11-19 mobile car valeter (EXAMPLE) - fully booked at £25 a full valet, 3 hrs each, ~£6/hr after products and fuel, scared to raise prices; price from the hour, 3 packages, new customers first (NOT YET SCHEDULED - Metricool needs reconnecting)
-2026-11-20 gift shop (EXAMPLE) - £12k on Christmas stock, £80 in the bank, rent and VAT due in January; gift sets for slow lines, weekly set-aside, buy in two waves + longer supplier terms (NOT YET SCHEDULED - Metricool needs reconnecting)
+2026-11-19 mobile car valeter (EXAMPLE) - fully booked at £25 a full valet, 3 hrs each, ~£6/hr after products and fuel, scared to raise prices; price from the hour, 3 packages, new customers first
+2026-11-20 gift shop (EXAMPLE) - £12k on Christmas stock, £80 in the bank, rent and VAT due in January; gift sets for slow lines, weekly set-aside, buy in two waves + longer supplier terms
